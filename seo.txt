@@ -1,0 +1,17 @@
+Keyword Reseaurch:
+1// https://app.neilpatel.com/en/ubersuggest/overview?keyword=programming&locId=2840&lang=en
+2// google keyword planner.
+3// https://keywordtool.io/
+4// mozbar chrome extention for PA, DA.
+5//allintitle:(keyword)
+5//allinurl:(keyword)
+Considerable quantities:
+1/ Volume
+2/ Compitetion
+3/ CPC(for non commertial website)
+4/ Domain authority <30(minimum 5 website, bshi hole aro valo)
+5/ Page authority <30(minimum 5 website, bshi hole aro valo)
+6/ Exact match keyword in title in others websites.(less then 10 website, joto kom toto valo)
+7/ Allintitle(joto kom toto valo)
+8/ Allinurl(joto kom toto valo)
+9/ mean article length of others websites.

@@ -1,0 +1,14 @@
+Icon-flaticon.com
+Photo-free stock photo
+color:color combination for web-design.
+OPTIMIZATION:
+1. for changing somthing of a specific page, the page id must used before the class name on additional css.
+2. plugin for image optimzation: Smush.
+3. web-site for image optimzation: tinypng.com
+4. plugin for minify website: autoptimize
+5. plugin for first loading of web-site: w3 toatal cache
+
+Plugin for transfering website from localhost to live server: duplicator
+
+*to finding the path of the JSON, search on google- json path finder.
+6. goto page source and search: wp-content/theme or wp-content/plugin

@@ -1,0 +1,37 @@
+{
+  "students":[
+    {
+      "name":"Jahid",
+      "id":74,
+      "age":24,
+      "friends":["Karimul", "Habib", "Rakib"],
+      "marks":{
+        "bangla":59,
+        "english":76,
+        "math":87
+       }
+    },
+    {
+      "name":"Karimul",
+      "id":99,
+      "age":25,
+      "friends":["Monirul", "Shovo", "Rony"],
+      "marks":{
+        "bangla":57,
+        "english":67,
+        "math":84
+      }
+    },
+    {
+      "name":"Rakib",
+      "id":71,
+      "age":26,
+      "friends":["Monirul", "Shovo", "Habib"],
+      "marks":{
+        "bangla":74,
+        "english":65,
+        "math":76
+      }
+    }
+  ]
+}

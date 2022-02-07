@@ -1,0 +1,10 @@
+color (value); color/?; cls; dir( to show the files in folder); 
+cd(to change folder);dir/a(to show hidden files);
+mkdir (folder name)(to make folder); cd ..(to go previous folder); 
+rmdir (folder name)(to remove folder); cd tab(to get folder name);
+rmdir /s (folder name)(to remove folder with inside files); 
+echo >(file name).(format); 
+echo "any data" >(file name).(format);
+copy (mainFile copyFile); move (mainFile moveFile); dir >>(fileName.txt); 
+del (fileName); type (fileName.txt);
+tree;

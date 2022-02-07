@@ -1,0 +1,64 @@
+clear;
+ls  -to see file names on the folder.;
+vi fileName  -to open a file
+pwd  -to see current folder path.
+git init  -to initiate git on a file or folder; 
+git-status  -to see git status;
+git add (file name)  -to stage a file or folder; 
+git add --all  -to stage all; 
+git add .   -to stage all;
+git add .txt   -to stage all the files with txt format. 
+git reset HEAD (file name)  -to remove from staged file;
+git reset -to remove all the staged files.;
+git reset --hard   -to reset and get deleted files.;
+git diff --staged    -to see diffence on staged files;
+
+git commit -to send on local repository; 
+git commit -m"any msg";
+
+git reset --soft
+git reset --mixed
+git reset --hard
+git reset HEAD~   -to remove all the commited files and go back to local repository.
+
+git log   -to see all the changes; 
+git log --oneline   -to see all the changes in a short form;
+git log --decorate --online -graph  -to see all chages nicely.
+git reflog  -to see all the changes in commint.
+git checkout (id)-to go back at any previous steps;  
+git diff-to see last change; 
+git diff (id1) (id2)- to see difference between two stage;  
+git show (id)-to see the changes is details on the stage;  
+git branch-to see branch names;
+git checkout (branchName)-to change branch;
+git branch (name)-to create new branch; 
+git merge (branchName)-to upgrade current branch like new one(e.g: like the branchName is entered) (N.B: firstly merge the main branch with new branch and then merge new branch with main branch);
+me
+git branch -D (branchName)-to delete a branch; 
+
+git rm (fileName)    -to delete file permanently; 
+git rm (fileName) -f   -delete somethig forcely.;
+git rm --cached (fileName)  -to delete form stage but not to working directory.;
+git rm -r (folderName)   -to delete the folder and also delete the folders inside in it.;
+
+git stash -to save a file temporary.;
+git stash pop or git stash apply -to go back last stash.;
+git stash list -to see the stash list.;
+git stash pop (stash id)- to go back in a specifi stash.;
+git clean -f -to clean untracked files.;
+git clean -f -n -to see which file would remove after running "git clean -f";
+
+
+git remote add origin (http address)  -to setup the repository adress, here 'origin' is the address name.
+git push -u origin (branchName)  -to send all commited files from local repository(git/pc storage) to remote repository(github);
+git fetch  -to send just the changes from remote to local.;
+git merge  -to send changes data from remote to local.;
+git pull- to update local repository like remote repository;(pull = fetch + merge)
+
+
+touch (fileName)  -to crate a new file.
+touch .gitignore -to create ignore header file. now enter into ignore file and type *.(file format which one would be ignored in commit);
+*click on fork -to copy a file from a github account to another account.;
+git clone: go to github, crteate a repository, copy the http link , open a terminal and enter into a folder,
+	   write git clone (paste the http link copied from github);
+
